@@ -9,3 +9,15 @@ C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda\src\Abstractions\obj\Debug\net
 C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda\src\Abstractions\obj\Debug\net5.0\Abstractions.dll
 C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda\src\Abstractions\obj\Debug\net5.0\ref\Abstractions.dll
 C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda\src\Abstractions\obj\Debug\net5.0\Abstractions.pdb
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\bin\Debug\net5.0\Abstractions.deps.json
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\bin\Debug\net5.0\Abstractions.dll
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\bin\Debug\net5.0\ref\Abstractions.dll
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\bin\Debug\net5.0\Abstractions.pdb
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.csprojAssemblyReference.cache
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.AssemblyInfo.cs
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.dll
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\ref\Abstractions.dll
+C:\Users\timne.LAPTOP-3EMBJNFJ\source\repos\Funda-Assignment\src\Abstractions\obj\Debug\net5.0\Abstractions.pdb

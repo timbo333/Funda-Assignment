@@ -887,11 +887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -911,8 +911,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Domain\\Domain.csproj"
+            "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Domain\\Domain.csproj"
             }
           }
         }

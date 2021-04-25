@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Abstractions\\Abstractions.csproj",
+      "projectUniqueName": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Abstractions\\Abstractions.csproj",
       "projectName": "Abstractions",
-      "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Abstractions\\Abstractions.csproj",
+      "projectPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Abstractions\\Abstractions.csproj",
       "packagesPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda\\src\\Abstractions\\obj\\",
+      "outputPath": "C:\\Users\\timne.LAPTOP-3EMBJNFJ\\source\\repos\\Funda-Assignment\\src\\Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
